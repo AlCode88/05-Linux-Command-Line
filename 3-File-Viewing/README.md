@@ -186,7 +186,7 @@ filename.
 
 ![nlexamples](./README.md_Extras/tail6.png)
 
-
+<<<<<<< HEAD
 ## 5) <ins> string <ins>✅
 string [options][files]
 First you need to install packages for to use strings command.  `binutils`
@@ -195,4 +195,6 @@ that text and displays it on standard output. You can discover
 version information, authors’ names, and other useful tidbits
 with strings:
 <br> `→ strings /usr/bin/who`
+=======
 ## 5) <ins> strings <ins>✅
+>>>>>>> 1465217 (Linux Mastering Command Line)
