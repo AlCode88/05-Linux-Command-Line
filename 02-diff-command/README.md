@@ -4,16 +4,16 @@
 
 2c2
 
-< learn operating system   ============> Means exists in file1.txt
+`<` learn operating system   ============> Means exists in file1.txt
 
 ---
 
-> learn Windows operating system     ===========> Means exists in file2.txt
+`>` learn Windows operating system     ===========> Means exists in file2.txt
 
 =====================================================================================================
 
 ### diff -y file1.txt file2.txt   ========> To compare two file
-** | ** means there is a difference in the line
+** `|` ** means there is a difference in the line
 
 =====================================================================================================
 

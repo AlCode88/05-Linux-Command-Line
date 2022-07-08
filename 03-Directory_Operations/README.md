@@ -57,3 +57,4 @@ Useful options:
 
 <br>**Note:** 
 <br>To delete nonempty directory and it is contents, use (carefully)  `rm -r directory_name`. Use `rm -ri` to delete interactively or `rm -rf` to force the deletion without any error messages or confirmation. 
+
